@@ -15,6 +15,7 @@
 		593931642A13B05F00A8D528 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 593931632A13B05F00A8D528 /* Assets.xcassets */; };
 		593931672A13B05F00A8D528 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 593931652A13B05F00A8D528 /* LaunchScreen.storyboard */; };
 		5939316F2A13B2E500A8D528 /* WeatherInformation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5939316E2A13B2E500A8D528 /* WeatherInformation.swift */; };
+		593931712A1624E200A8D528 /* ErrorMessage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 593931702A1624E200A8D528 /* ErrorMessage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		593931662A13B05F00A8D528 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		593931682A13B05F00A8D528 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5939316E2A13B2E500A8D528 /* WeatherInformation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherInformation.swift; sourceTree = "<group>"; };
+		593931702A1624E200A8D528 /* ErrorMessage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ErrorMessage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +71,7 @@
 				593931682A13B05F00A8D528 /* Info.plist */,
 				593931602A13B05F00A8D528 /* Weather.xcdatamodeld */,
 				5939316E2A13B2E500A8D528 /* WeatherInformation.swift */,
+				593931702A1624E200A8D528 /* ErrorMessage.swift */,
 			);
 			path = Weather;
 			sourceTree = "<group>";
@@ -148,6 +151,7 @@
 				593931622A13B05F00A8D528 /* Weather.xcdatamodeld in Sources */,
 				5939315C2A13B05F00A8D528 /* ViewController.swift in Sources */,
 				593931582A13B05F00A8D528 /* AppDelegate.swift in Sources */,
+				593931712A1624E200A8D528 /* ErrorMessage.swift in Sources */,
 				5939315A2A13B05F00A8D528 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
